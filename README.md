@@ -31,4 +31,6 @@ Our approach to simulating a new cancer model, along with its prevention and tre
 
 Alex: *I've tried to understand cancer research but it's not easy to read and it's difficult understand words like "aromatase inhibitors" and "methylation". AI developers encounter difficulties when trying to understand cancer causes, personalization, detection, prevention, treatments and medicine.*
 
+***
+
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.
