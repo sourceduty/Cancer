@@ -31,6 +31,8 @@ Our approach to simulating a new cancer model, along with its prevention and tre
 
 Alex: *I've tried to understand cancer research but it's not easy to read and it's difficult understand words like "aromatase inhibitors" and "methylation". AI developers encounter difficulties when trying to understand cancer causes, personalization, detection, prevention, treatments and medicine.*
 
+Alex: *I don't know if this can be used in MENTAL HEALTH, but SIMULTATION is what I would do in biology to find variants and errors.*
+
 ***
 
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.
