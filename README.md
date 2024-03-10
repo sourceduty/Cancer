@@ -14,7 +14,7 @@ The outputs of the model are rigorously evaluated for their coherence, relevance
 
 ### Notes
 
-I've tried to understand cancer research but it's not easy to read and it's difficult understand words like "aromatase inhibitors" and "methylation". AI developers encounter difficulties when trying to understand cancer causes, personalization, detection, prevention, treatments and medicine. 
+Alex: *I've tried to understand cancer research but it's not easy to read and it's difficult understand words like "aromatase inhibitors" and "methylation". AI developers encounter difficulties when trying to understand cancer causes, personalization, detection, prevention, treatments and medicine.*
 
 ***
 
