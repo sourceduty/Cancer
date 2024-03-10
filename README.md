@@ -1,6 +1,6 @@
 ![Cancer Science](https://github.com/sourceduty/Cancer/assets/123030236/c56f33b6-329c-4372-8ac3-f50f31abbb85)
 
-### Cancer Reasearch Simulations
+### Cancer Research Simulations
 
 [Cancer Simulation Research](https://chat.openai.com/g/g-rJ2Onux8b-cancer-simulation-research) involves the development and utilization of a specialized platform designed to generate and simulate various aspects of cancer, leveraging advanced computational models like a custom GPT (Generative Pretrained Transformer) model tailored specifically for cancer research. This process begins with the comprehensive collection and preprocessing of diverse cancer-related datasets, which include information on different cancer types, genetic profiles, treatment methodologies, patient outcomes, and experimental data. These datasets are meticulously cleaned, normalized, and formatted to be suitable for input into the model.
 
