@@ -12,13 +12,13 @@ Once trained, the model serves as a powerful tool for simulating diverse aspects
 
 The outputs of the model are rigorously evaluated for their coherence, relevance, and scientific accuracy, validated against existing research findings and expert opinions. Continuous feedback from researchers and domain experts is incorporated to refine the model, ensuring its reliability and usefulness for research purposes. This comprehensive approach to Cancer Simulation Research holds the promise of advancing our understanding of cancer and contributing to the development of more effective prevention, diagnosis, and treatment strategies.
 
-[Simulate a new cancer model, prevention and treatment.](https://chat.openai.com/share/fe50ffc5-2e58-4493-a2ef-872035d83154)
-
 ![Cancer Vaccine AI Banner](https://github.com/sourceduty/Cancer/assets/123030236/93a18f7d-ad3a-4ee3-992a-856f762374af)
 
 ***
 
 ### New Cancer Model: Triple-Negative Breast Cancer (TNBC)
+
+[Simulate a new cancer model, prevention and treatment.](https://chat.openai.com/share/fe50ffc5-2e58-4493-a2ef-872035d83154)
 
 TNBC is a subtype of breast cancer that does not express estrogen receptors, progesterone receptors, and minimal HER2 protein. It is characterized by aggressive growth, higher metastatic potential, and limited treatment options due to the lack of targeted receptors.
 
