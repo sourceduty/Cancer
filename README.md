@@ -46,6 +46,16 @@ The consequences of DNA mutations are highly variable. Some mutations have negli
 <br>    
 </details>
 
+<details><summary>Next-Generation Sequencing</summary>
+<br>
+
+Next-Generation Sequencing (NGS) is a powerful and modern method of DNA sequencing that has revolutionized the field of genomics. Unlike traditional sequencing techniques, which typically examine DNA one gene at a time, NGS allows for the simultaneous sequencing of millions of DNA fragments, providing a comprehensive overview of an entire genome. This technology offers unprecedented speed and accuracy, enabling researchers to decode complete genomes in a matter of days—a process that previously took years.
+
+NGS has multiple applications in research and medicine, particularly in cancer research where it is used to understand genetic variations and mutations that can lead to cancer. It helps in identifying tumor-specific mutations and provides insights into the genetic basis of cancer, which can guide personalized treatment strategies. In clinical settings, NGS is used for diagnostic purposes, such as identifying inherited disorders, characterizing infectious diseases, and tailoring treatments to the genetic profile of individual patients. Thus, NGS serves as a cornerstone technology that supports a wide range of biomedical and healthcare applications.
+
+<br>    
+</details>
+
 ***
 ### Notes
 
