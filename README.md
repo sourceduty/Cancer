@@ -75,11 +75,6 @@ Given the vast and diverse nature of cancer types, ongoing research continues to
 </details>
 
 #
-
-> Alex: *I've tried to understand cancer research but it's not easy to read and it's difficult understand words like "aromatase inhibitors" and "methylation". AI developers encounter difficulties when trying to understand cancer causes, personalization, detection, prevention, treatments and medicine.*
-
-> Alex: *I don't know if this can be used in MENTAL HEALTH, but SIMULATION is what I would do in biology to find variants and errors. Simulate all mental health disorder variants and errors.*
-
 > Alex: *From my calculations, there are currently 360 different possible DNA mutations which are the primary source of cancer.*
 > 
 > - The exact number of genetic alterations in DNA sequences affected by cancer in unknown.
