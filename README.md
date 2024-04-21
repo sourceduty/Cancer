@@ -35,9 +35,9 @@ Our approach to simulating a new cancer model, along with its prevention and tre
 
 > Alex: *From my calculations, there are currently 360 different possible DNA mutations which are the primary source of cancer.*
 > 
-> The exact number of genetic alterations in DNA sequences affected by cancer in unknown.
+> - The exact number of genetic alterations in DNA sequences affected by cancer in unknown.
 > 
-> There are over 100 types of cancer.
+> - There are over 100 types of cancer.
 
 ***
 
