@@ -16,6 +16,9 @@ The outputs of the model are rigorously evaluated for their coherence, relevance
 
 ***
 
+<details><summary>New Cancer Model: Triple-Negative Breast Cancer</summary>
+<br>
+
 ### New Cancer Model: Triple-Negative Breast Cancer (TNBC)
 
 [Simulate a new cancer model, prevention and treatment.](https://chat.openai.com/share/fe50ffc5-2e58-4493-a2ef-872035d83154)
@@ -25,6 +28,23 @@ TNBC is a subtype of breast cancer that does not express estrogen receptors, pro
 TNBC is often associated with mutations in the BRCA1 gene, along with alterations in the PIK3CA, PTEN, and TP53 genes, contributing to its aggressive behavior and treatment resistance.
 
 Our approach to simulating a new cancer model, along with its prevention and treatment strategies, follows a structured methodology integrating the latest advancements in cancer research and innovative therapeutic techniques. The simulation focuses on Triple-Negative Breast Cancer (TNBC), a subtype characterized by the absence of estrogen receptors, progesterone receptors, and minimal HER2 protein expression, leading to aggressive growth and limited treatment options. Genetically, TNBC is often associated with mutations in genes such as BRCA1, PIK3CA, PTEN, and TP53, contributing to its aggressive behavior and resistance to treatment. The simulation includes detailed models of tumor growth and metastasis, accounting for cellular heterogeneity and predicting metastasis to distant sites like the lungs, brain, and bones. Prevention strategies encompass lifestyle modifications such as dietary changes and regular exercise, as well as screening protocols including genetic testing, mammography, and MRI. Treatment options simulated range from chemotherapy to targeted therapies like PARP inhibitors and androgen receptor blockers, with novel approaches such as CRISPR-Cas9 gene editing and nano-drug delivery systems explored. The effectiveness of these strategies is continually evaluated against clinical trial data and real-world outcomes, with feedback from oncologists and researchers informing refinements to the simulation. Overall, this comprehensive simulation provides valuable insights into TNBC and its management, benefiting researchers, clinicians, and patients in the ongoing battle against this challenging form of cancer.
+
+<br>    
+</details>
+
+<details><summary>DNA Mutations</summary>
+<br>
+
+DNA mutations are changes in the genetic material of an organism, which can occur in various forms and have different causes and effects. At its core, DNA (deoxyribonucleic acid) carries the genetic instructions used in the growth, development, functioning, and reproduction of all known organisms and many viruses. Mutations can be viewed as errors that happen as DNA copies itself during cell division, but they can also be induced by external factors.
+
+Mutations can be classified into several types based on how they affect the DNA sequence. Point mutations are one of the most common types, involving a change in a single nucleotide, which includes substitutions, deletions, or insertions of one or a few nucleotides. Substitutions replace one base for another and can be silent, causing no change in the protein sequence, or they can be missense or nonsense mutations, which affect protein function or structure. Insertions and deletions can lead to frameshift mutations, where the entire reading frame of the genetic code is altered, often resulting in a completely different and nonfunctional protein.
+
+The sources of DNA mutations are varied. They can arise from internal factors such as errors in DNA replication, repair, or through spontaneous chemical changes in DNA bases. External factors, or mutagens, including ultraviolet light from the sun, radiation, and certain chemicals, can also damage DNA and cause mutations. Biological agents such as viruses can also introduce genetic changes.
+
+The consequences of DNA mutations are highly variable. Some mutations have negligible effects and might go unnoticed, while others can lead to diseases such as cancer or genetic disorders like cystic fibrosis. However, not all mutations are harmful; some can confer advantageous traits that may improve an organism's chances of survival and reproduction. These beneficial mutations are a key driver of natural selection and evolutionary change. Thus, mutations play a crucial role not only in individual health and development but also in the diversity and adaptability of life on Earth.
+
+<br>    
+</details>
 
 ***
 ### Notes
