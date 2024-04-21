@@ -18,6 +18,16 @@ The outputs of the model are rigorously evaluated for their coherence, relevance
 
 ### Notes
 
+<details><summary>Cancer Difficulties</summary>
+<br>
+
+Cancer is notoriously difficult to solve due to its complex and multifaceted nature. Firstly, cancer is not a single disease but a collection of related diseases, each influenced by genetic, environmental, and lifestyle factors. These cancers develop due to mutations in the DNA, which can vary widely not just from one type of cancer to another, but also within tumors of the same type, leading to what is known as tumor heterogeneity. This variability complicates diagnosis, treatment, and the prediction of disease progression. Moreover, cancers can adapt and develop resistance to treatments, necessitating ongoing adjustments to therapeutic approaches. Additionally, the interaction of cancer cells with their microenvironment and the whole body complicates both the understanding of cancer biology and the effective targeting of therapies without harming normal cells.
+
+Computational science, while a powerful tool in cancer research, comes with its own set of limitations. The complexity of cancer as a biological system poses significant challenges in modeling and simulation. Biological data are often noisy and incomplete, and computational models may not always capture the full spectrum of cancer dynamics or the nuances of molecular interactions. Furthermore, computational approaches rely heavily on the quality and quantity of data available; discrepancies in data can lead to inaccuracies in predictions or conclusions. While machine learning and computational modeling have advanced significantly, they still struggle with issues such as overfitting, underfitting, and the need for vast amounts of training data. These models also require continual updates and validation against experimental or clinical outcomes to ensure their relevance and accuracy. Thus, while computational science provides valuable insights and tools for understanding and treating cancer, it must be integrated with experimental biology and clinical practice to be fully effective.
+
+<br>    
+</details>
+
 <details><summary>New Cancer Model: Triple-Negative Breast Cancer</summary>
 <br>
 
