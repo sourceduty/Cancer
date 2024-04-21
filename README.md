@@ -16,6 +16,8 @@ The outputs of the model are rigorously evaluated for their coherence, relevance
 
 ***
 
+### Notes
+
 <details><summary>New Cancer Model: Triple-Negative Breast Cancer</summary>
 <br>
 
@@ -72,8 +74,7 @@ Given the vast and diverse nature of cancer types, ongoing research continues to
 <br>    
 </details>
 
-***
-### Notes
+#
 
 > Alex: *I've tried to understand cancer research but it's not easy to read and it's difficult understand words like "aromatase inhibitors" and "methylation". AI developers encounter difficulties when trying to understand cancer causes, personalization, detection, prevention, treatments and medicine.*
 
