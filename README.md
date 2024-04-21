@@ -56,6 +56,22 @@ NGS has multiple applications in research and medicine, particularly in cancer r
 <br>    
 </details>
 
+<details><summary>Types of Cancer</summary>
+<br>
+
+Cancer is a broad group of diseases characterized by the uncontrolled growth and spread of abnormal cells in the body. There are many types of cancer, each classified based on the cell type or organ in which they originate. It's challenging to specify an exact number of cancer types because they can be categorized in various ways, including the location in the body, the type of tissue they arise from, and the type of cell they affect. Estimates suggest that there are more than 100 different types of cancer.
+
+Carcinomas are the most common type of cancer. They start in the cells that cover internal and external surfaces of the body. This group includes lung, breast, prostate, and colon cancers, which are among the most prevalent cancers worldwide. Sarcomas arise from connective tissues such as bone, muscle, fat, or cartilage. Examples include osteosarcoma (bone) and leiomyosarcoma (muscle tissue).
+
+Leukemias are cancers of the bone marrow and blood, characterized by the overproduction of abnormal white blood cells. Lymphomas are cancers of the lymphatic system, which includes the lymph nodes, spleen, and thymus. These are broadly divided into Hodgkin's lymphoma and non-Hodgkin's lymphoma.
+
+Melanomas originate from the pigment-producing cells in the skin known as melanocytes. Brain and spinal cord cancers are known as central nervous system cancers and vary significantly in their severity and treatability based on the specific type of cell affected.
+
+Given the vast and diverse nature of cancer types, ongoing research continues to identify subtypes and variations within these broad categories, leading to more personalized approaches to treatment and diagnosis. This intricate classification helps in tailoring specific and effective treatment plans for each cancer type.
+
+<br>    
+</details>
+
 ***
 ### Notes
 
