@@ -84,6 +84,18 @@ Given the vast and diverse nature of cancer types, ongoing research continues to
 <br>    
 </details>
 
+<details><summary>Work and Cost Estimate</summary>
+<br>
+
+The resources needed for cancer research, including HPC infrastructure, specialized equipment, and a large multidisciplinary team, are substantial. While large-scale software projects also require significant resources, the scale and specificity of the needs in cancer research often exceed those of typical software development efforts. For instance, the Human Genome Project, which involved mapping all human genes, is one real-world example comparable in scale to cancer research. Other comparable large software projects include the development of global-scale platforms like Google's search engine infrastructure or the creation of comprehensive enterprise resource planning (ERP) systems like SAP, both of which require extensive data processing, advanced algorithms, and significant interdisciplinary collaboration.
+
+**Curing cancer using high-performance computing (HPC) could be compared to mobilizing the entire workforce of a large tech company like Google for an extensive period. Google's workforce, which comprises tens of thousands of highly skilled professionals, would likely need to dedicate 20-30 years to this endeavor. This comparison highlights the sheer magnitude and complexity of the task.**
+
+Curing cancer with the full workforce and resources made available could realistically take several decades and cost hundreds of billions of dollars. The Human Genome Project, completed in 2003, took 13 years and approximately $3 billion. Given the increased complexity and breadth of cancer research, along with the ongoing need for technological advancements and extensive clinical trials, the timeline for curing cancer could span 20-30 years with costs potentially reaching $200-$500 billion. This estimate encompasses the continuous efforts needed to understand the genetic and molecular bases of cancer, develop personalized treatments, conduct extensive clinical trials, and integrate the findings into practical medical applications. The scale of such a project underscores the critical need for sustained funding, global collaboration, and innovative scientific breakthroughs.
+
+<br>    
+</details>
+
 #
 > Alex: *From my calculations, there are currently 360 different possible DNA mutations which are the primary source of cancer.*
 > 
