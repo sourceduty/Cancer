@@ -90,6 +90,12 @@ Given the vast and diverse nature of cancer types, ongoing research continues to
 > - The exact number of genetic alterations in DNA sequences affected by cancer in unknown.
 > 
 > - There are over 100 types of cancer.
+>
+
+#
+### Related Links
+
+[COVID-19](https://github.com/sourceduty/COVID-19)
 
 ***
 
