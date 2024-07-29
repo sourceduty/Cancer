@@ -97,7 +97,7 @@ Curing cancer with the full workforce and resources made available could realist
 </details>
 
 #
-> Alex: *Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*
+> Alex: "*Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*"
 > 
 >  "*The exact number of genetic alterations in DNA sequences affected by cancer in unknown and there are over 100 types of cancer.*"
 
