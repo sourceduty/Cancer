@@ -97,12 +97,9 @@ Curing cancer with the full workforce and resources made available could realist
 </details>
 
 #
-> Alex: *From my calculations, there are currently 360 different possible DNA mutations which are the primary source of cancer.*
+> Alex: *Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*
 > 
-> - The exact number of genetic alterations in DNA sequences affected by cancer in unknown.
-> 
-> - There are over 100 types of cancer.
->
+>  "*The exact number of genetic alterations in DNA sequences affected by cancer in unknown and there are over 100 types of cancer.*"
 
 #
 ### Related Links
