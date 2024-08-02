@@ -98,8 +98,10 @@ Curing cancer with the full workforce and resources made available could realist
 
 #
 > Alex: "*Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*"
-> 
+
 >  "*The exact number of genetic alterations in DNA sequences affected by cancer in unknown and there are over 100 types of cancer.*"
+
+> "*The included cost estimate that uses Google's workforce and HPCs to cure cancer, proves that cancer is not impossible to cure using AI, but it's extremely difficult.*" 
 
 #
 ### Related Links
