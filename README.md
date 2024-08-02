@@ -101,7 +101,9 @@ Curing cancer with the full workforce and resources made available could realist
 
 >  "*The exact number of genetic alterations in DNA sequences affected by cancer in unknown and there are over 100 types of cancer.*"
 
-> "*The included cost estimate that uses Google's workforce and HPCs to cure cancer, proves that cancer is not impossible to cure using AI, but it's extremely difficult.*" 
+> "*The included cost estimate that uses Google's workforce and HPCs to cure cancer, proves that cancer is not impossible to cure using AI, but it's extremely difficult.*"
+
+> "*A larger workforce might be able to cure cancer in 10 years using HPCs.*"
 
 #
 ### Related Links
