@@ -363,7 +363,7 @@ generate_report(filtered_variants, output_report_file)
 
 4. Output: The final step of the program is to produce a report summarizing the findings. This report typically includes the filtered list of variants, along with their annotations and any relevant clinical information. The report can be formatted as a text file, spreadsheet, or even a visual representation, depending on the intended use. This output is crucial for clinicians, researchers, or bioinformaticians who will interpret the results in the context of patient care or further scientific study. The report can help guide clinical decisions, such as selecting targeted therapies or enrolling patients in relevant clinical trials.
 
-Summary
+#
 
 The outlined cancer genome sequencing program is a valuable tool in precision medicine, designed to process and analyze genetic data to identify mutations associated with cancer. The steps involve acquiring sequencing data, processing it to identify variants, annotating these variants with relevant biological information, and generating a report that can guide clinical decisions. While this program can efficiently analyze genomic data, it is just one part of a broader effort in cancer research and treatment.
 
