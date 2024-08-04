@@ -198,6 +198,7 @@ In this example, we calculated the total amount of sequencing data generated and
 
 This calculation is crucial in NGS because the coverage level affects the reliability of the sequencing data. High coverage (e.g., 100×) ensures that even rare variants in the genome are detected with high confidence. Conversely, low coverage might miss these variants, leading to incomplete or less accurate results. Understanding these calculations helps researchers and clinicians evaluate the quality and depth of their sequencing data.
 
+```
 Scenario: 
 
 You have sequenced a DNA sample using an NGS platform and obtained 2 billion reads. Each read is 150 base pairs long. You want to calculate the total amount of data generated and the average coverage of a human genome (assuming the human genome is approximately 3 billion base pairs long).
@@ -230,6 +231,7 @@ Result:
 
 - The total amount of data generated is 300 billion base pairs.
 - The average coverage of the human genome is 100×.
+```
 
 <br>    
 </details>
