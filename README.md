@@ -236,6 +236,57 @@ Result:
 <br>    
 </details>
 
+<details><summary>Potential of NGS to Cure Cancer</summary>
+<br>
+
+This estimation illustrates the transformative potential of NGS in the search for a cancer cure. By sequencing the genomes of cancer patients, NGS can identify a vast number of mutations that drive cancer progression or resistance to treatment. Among these, actionable mutations can be targeted with existing drugs or used to develop new therapeutic approaches.
+
+While the numbers used in this estimation are hypothetical, they emphasize the scale at which NGS can contribute to cancer research. Identifying actionable targets from NGS data could lead to breakthroughs in developing targeted therapies, immunotherapies, or combination treatments, offering a more personalized and effective approach to cancer care. Furthermore, the ability of NGS to sequence large cohorts of cancer patients allows for a deeper understanding of the genetic diversity in cancer, enabling researchers to uncover patterns and commonalities that could inform the development of universal or broadly effective cancer treatments.
+
+Ultimately, the use of NGS in cancer research and treatment development is not just about finding one "cure" for cancer, but rather about systematically dismantling the complex genetic pathways that underlie different types of cancer, leading to more effective and personalized cures over time.
+
+```
+Estimating the impact of Next-Generation Sequencing (NGS) on finding a cure for cancer by identifying significant mutations, actionable targets, and potential new treatments. Assume 1 million cancer patients are sequenced globally.
+
+Steps:
+
+1. Number of Cancer Patients Sequenced:
+
+   - Assume 1,000,000 cancer patients globally are sequenced using NGS.
+
+2. Average Number of Key Mutations Identified per Patient:
+
+   - On average, NGS identifies 100 significant mutations per patient that are relevant for treatment or understanding the disease mechanism.
+
+3. Potential Drug Targets Identified:
+
+   - Out of these 100 significant mutations, assume 10% (10 mutations) are actionable, meaning they can potentially be targeted by existing drugs or new drugs can be developed.
+
+4. Estimation of New Treatments and Cures:
+
+   - If research and clinical trials are successful for 1% of these actionable targets, new treatments could be developed.
+   - Assume NGS reveals 10,000 actionable targets across 1 million patients.
+
+5. Formula:
+
+   - Total Significant Mutations = Number of Patients Sequenced × Average Significant Mutations per Patient
+   - Actionable Targets = Total Significant Mutations × Percentage of Actionable Mutations
+   - Potential Treatments Developed = Actionable Targets × Success Rate of Research/Clinical Trials
+
+Substitute values:
+
+- Total Significant Mutations = 1,000,000 patients × 100 mutations = 100,000,000 significant mutations
+- Actionable Targets = 100,000,000 mutations × 10% = 10,000,000 actionable targets
+- Potential Treatments Developed = 10,000,000 targets × 1% = 100,000 potential new treatments
+
+Result:
+
+- NGS could potentially reveal 100,000 significant mutations that are actionable, leading to the development of about 100,000 new treatments or therapeutic approaches, contributing to a step closer to a cure for various cancer types.
+```
+
+<br>    
+</details>
+
 #
 > Alex: "*Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*"
 
