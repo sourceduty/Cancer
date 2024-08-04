@@ -169,6 +169,28 @@ Summary:
 <br>    
 </details>
 
+<details><summary>Concept DNA Mutation Estimate Calculation</summary>
+<br>
+
+Estimation Calculation:
+
+Total Cancer Types = 1000 distinct types and subtypes
+
+Average Mutations per Cancer Type = 10000 mutations (including both driver and passenger mutations)
+
+Total Mutations = Number of Cancer Types * Average Mutations per Cancer Type
+
+Total Mutations = 1000 * 10000
+
+Total Mutations = 10000000 mutations
+
+This estimation calculation combines the number of distinct cancer types with the average number of mutations found in each type to provide an overall estimate of mutations across all cancer types. The figure of 10 million mutations is derived by considering the diversity of cancer types, both by organ origin and molecular subtype, and by recognizing that each type can have a wide range of mutations, many of which do not directly contribute to cancer progression.
+
+The estimate is based on current understanding and assumptions regarding cancer biology, including an average mutation burden across cancers and a rounded number of cancer subtypes. While the calculation provides a useful estimate, it is essential to note that the actual number of mutations may vary significantly depending on specific cancer types, individual genetic factors, and environmental influences.
+
+<br>    
+</details>
+
 #
 > Alex: "*Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*"
 
