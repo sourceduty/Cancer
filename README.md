@@ -191,6 +191,49 @@ The estimate is based on current understanding and assumptions regarding cancer 
 <br>    
 </details>
 
+<details><summary>Next-Generation Sequencing Calculations</summary>
+<br>
+
+In this example, we calculated the total amount of sequencing data generated and the average coverage of the human genome using NGS. By multiplying the total number of reads by the length of each read, we determined that the sequencing generated 300 billion base pairs of data. Then, by dividing this total by the size of the human genome (3 billion base pairs), we found that each base in the genome was sequenced an average of 100 times, giving us a 100× coverage.
+
+This calculation is crucial in NGS because the coverage level affects the reliability of the sequencing data. High coverage (e.g., 100×) ensures that even rare variants in the genome are detected with high confidence. Conversely, low coverage might miss these variants, leading to incomplete or less accurate results. Understanding these calculations helps researchers and clinicians evaluate the quality and depth of their sequencing data.
+
+Scenario: 
+
+You have sequenced a DNA sample using an NGS platform and obtained 2 billion reads. Each read is 150 base pairs long. You want to calculate the total amount of data generated and the average coverage of a human genome (assuming the human genome is approximately 3 billion base pairs long).
+
+Steps:
+
+1. Calculate the Total Amount of Data Generated:
+   
+   - Each read is 150 base pairs.
+   - Total number of reads = 2 billion.
+   - Total amount of data (in base pairs) = Number of reads × Length of each read.
+
+3. Formula:
+   
+   Total Data (base pairs) = Number of Reads × Read Length
+
+   - Substitute values:
+   Total Data = 2,000,000,000 reads × 150 base pairs = 300,000,000,000 base pairs (300 billion base pairs)
+
+5. Calculate the Average Coverage:
+   
+   - Coverage refers to the number of times each base in the genome is sequenced.
+   - Formula:
+     Coverage = Total Data (base pairs) / Size of the Genome (base pairs)
+
+   - Substitute values:
+   Coverage = 300,000,000,000 base pairs / 3,000,000,000 base pairs = 100×
+
+Result:
+
+- The total amount of data generated is 300 billion base pairs.
+- The average coverage of the human genome is 100×.
+
+<br>    
+</details>
+
 #
 > Alex: "*Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*"
 
