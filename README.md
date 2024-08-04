@@ -363,6 +363,13 @@ generate_report(filtered_variants, output_report_file)
 
 4. Output: The final step of the program is to produce a report summarizing the findings. This report typically includes the filtered list of variants, along with their annotations and any relevant clinical information. The report can be formatted as a text file, spreadsheet, or even a visual representation, depending on the intended use. This output is crucial for clinicians, researchers, or bioinformaticians who will interpret the results in the context of patient care or further scientific study. The report can help guide clinical decisions, such as selecting targeted therapies or enrolling patients in relevant clinical trials.
 
+Summary
+
+The outlined cancer genome sequencing program is a valuable tool in precision medicine, designed to process and analyze genetic data to identify mutations associated with cancer. The steps involve acquiring sequencing data, processing it to identify variants, annotating these variants with relevant biological information, and generating a report that can guide clinical decisions. While this program can efficiently analyze genomic data, it is just one part of a broader effort in cancer research and treatment.
+
+Estimating the time required to run this program varies based on data size and computational resources. From raw sequencing to report generation, the process could take anywhere from a few hours to several days for a single case. The computational requirements include high-throughput sequencing machines, storage systems, and powerful servers or cloud computing resources. However, the program's speed and efficiency are just one aspect of the complex process of understanding and addressing cancer.
+
+Curing cancer involves much more than running a computational program. It requires years to decades of research, clinical trials, and regulatory processes to develop effective treatments. Cancer's complexity, with its numerous types and underlying genetic factors, means that finding a cure involves understanding and treating each unique case. While genome sequencing plays a crucial role in this effort, the actual time to "cure" cancer depends on the success of broader medical and scientific advancements, making it an ongoing and multifaceted challenge.
 
 <br>    
 </details>
