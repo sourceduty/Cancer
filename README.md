@@ -597,7 +597,8 @@ AI has made significant strides in addressing a variety of complex problems. Her
 ### Related Links
 
 [COVID-19](https://github.com/sourceduty/COVID-19)
+<br>
+[Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 
 ***
-
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.
