@@ -514,6 +514,36 @@ Python can also be used to visualize sequencing data using libraries like matplo
 <br>    
 </details>
 
+<details><summary>Current Companies Applying Computational Methods to Cancer</summary>
+<br>
+
+#### IBM Watson Health:
+
+IBM Watson Health uses its AI capabilities to analyze vast amounts of medical data, including patient records, clinical trials, and medical literature. The AI can identify patterns and correlations that might not be obvious to human researchers. By doing this, it helps predict treatment outcomes, identifies optimal treatment plans, and personalizes cancer care. It also assists oncologists in making data-driven decisions by providing insights based on the latest research. IBM Watson Health’s AI is recalculated continuously by integrating new data, refining its models to improve accuracy in predicting cancer progression and treatment efficacy.
+
+#### Google Health (formerly Verily):
+
+Google Health applies AI and data analytics to improve early detection and treatment of cancer. Their AI models analyze imaging data, such as mammograms or pathology slides, to identify early signs of cancer that might be missed by human eyes. Google Health also works on genomic data, trying to understand the genetic basis of cancer and how different mutations affect patient outcomes. This recalculation involves continuously training their AI models on new datasets to improve their accuracy and reliability in detecting cancer at earlier stages.
+
+#### Microsoft AI for Health:
+
+Microsoft’s AI for Health program collaborates with researchers worldwide to use AI and machine learning to understand cancer biology better. This involves analyzing large datasets, such as genomic sequences, to discover new cancer biomarkers or potential therapeutic targets. Microsoft also uses AI to model how different cancer treatments interact with specific types of cancer, helping to tailor treatments to individual patients. The recalculation process includes iterative improvements in AI algorithms and HPC capabilities to handle the complex simulations required for these models, leading to more precise and actionable insights.
+
+Each of these companies is at the forefront of integrating AI and HPC in cancer research, aiming to accelerate the discovery of treatments and improve patient outcomes through continuous recalculation and refinement of their technologies.
+
+#### Cost Estimates
+
+IBM Watson Health: Estimated total cost over 20 years: $436 billion.
+
+Google Health: Estimated total cost over 20 years: $866 billion.
+
+Microsoft AI for Health: Estimated total cost over 20 years: $222 billion.
+
+These estimates are based on mobilizing a significant portion of each company's workforce, with substantial investments in HPC infrastructure, AI development, and clinical trials to contribute to curing cancer.
+
+<br>    
+</details>
+
 #
 > Alex: "*Based on current research, there are thousands of different DNA mutations that can contribute to cancer development.*"
 
