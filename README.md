@@ -531,7 +531,7 @@ Microsoft’s AI for Health program collaborates with researchers worldwide to u
 
 Each of these companies is at the forefront of integrating AI and HPC in cancer research, aiming to accelerate the discovery of treatments and improve patient outcomes through continuous recalculation and refinement of their technologies.
 
-#### Cost Estimates
+#### Cost Estimates:
 
 IBM Watson Health: Estimated total cost over 20 years: $436 billion.
 
