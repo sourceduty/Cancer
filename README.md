@@ -602,6 +602,8 @@ Moreover, this controlled virtual environment can be used to accelerate the disc
 
 > "*A larger workforce might be able to cure cancer in 10 years using HPCs.*"
 
+> "*The concept of creating a controlled virtual environment where multiple reactions produce outputs could significantly benefit cancer research.*"
+
 #
 ### Related Links
 
