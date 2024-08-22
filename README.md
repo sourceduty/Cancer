@@ -610,6 +610,8 @@ Moreover, this controlled virtual environment can be used to accelerate the disc
 [COVID-19](https://github.com/sourceduty/COVID-19)
 <br>
 [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.
