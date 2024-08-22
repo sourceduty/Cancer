@@ -619,6 +619,8 @@ In conclusion, computational reactors offer a powerful tool for advancing cancer
 
 > "*The concept of creating a controlled virtual environment where multiple reactions produce outputs could significantly benefit cancer research.*"
 
+> "*Given the capabilities of computational reactors, it is estimated that their use could reduce the time required for key stages of cancer research by as much as 30% to 50%.*"
+
 #
 ### Related Links
 
