@@ -625,7 +625,7 @@ In conclusion, computational reactors offer a powerful tool for advancing cancer
 
 > "*There isn't a financial budget limit for cancer and zero profit. It doesn't matter.*"
 
-> "*I'm not planning on leading the development and management of Computational Reactors for cancer. My work is the computations.*"
+> "*I'm not planning on leading the development and management of computational reactors for cancer. My work is the computations.*"
 
 #
 ### Related Links
