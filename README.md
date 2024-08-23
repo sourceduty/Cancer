@@ -623,6 +623,8 @@ In conclusion, computational reactors offer a powerful tool for advancing cancer
 
 > "*Computational reactors could help shorten the timeline to finding a cure for cancer, potentially making significant strides within the next 10 years.*"
 
+> "*There isn't a financial budget limit for cancer.*"
+
 #
 ### Related Links
 
