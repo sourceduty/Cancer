@@ -621,6 +621,8 @@ In conclusion, computational reactors offer a powerful tool for advancing cancer
 
 > "*Given the capabilities of computational reactors, it is estimated that their use could reduce the time required for key stages of cancer research by as much as 30% to 50%.*"
 
+> "*Computational reactors could help shorten the timeline to finding a cure for cancer, potentially making significant strides within the next 10 years.*"
+
 #
 ### Related Links
 
