@@ -635,6 +635,8 @@ In conclusion, computational reactors offer a powerful tool for advancing cancer
 [Drug Simulator](https://github.com/sourceduty/Drug_Simulator)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Intelligence Benchmark](https://github.com/sourceduty/Intelligence_Benchmark)
 
 ***
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.
